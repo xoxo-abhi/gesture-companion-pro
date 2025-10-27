@@ -1,4 +1,4 @@
-# gesture-companion-pro
+
 name: gesture_companion_pro
 description: Combined touch + camera gesture control app.
 publish_to: 'none'
